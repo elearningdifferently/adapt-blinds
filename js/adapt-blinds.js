@@ -1,6 +1,6 @@
 define([
     "core/js/adapt",
-    "core/js/models/itemModel",
+    "core/js/models/itemsModel",
     "./BlindsView"
 ], function(Adapt, ItemModel, BlindsView) {
 
